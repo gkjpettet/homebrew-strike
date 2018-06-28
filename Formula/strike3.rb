@@ -1,8 +1,8 @@
 class Strike3 < Formula
   desc "Strike3- A Static Site Generator"
   homepage "https://github.com/gkjpettet/strike3"
-  url "https://github.com/gkjpettet/strike3-cli/files/2144958/strike3-095-macos.zip"
-  sha256 "e67c3ec2a047aebe1bd8c6cca625043506c7f2a7e08b46c33e574499a3c45d9f" # openssl sha256 [file]
+  url "https://github.com/gkjpettet/strike3-cli/files/2145406/strike3-096-macos.zip"
+  sha256 "57cbd74f6da09a4b7534767aa8c3b9ec3b0fab3f1d7d51c2e0a20a49bd8cc6f0" # openssl sha256 [file]
 
   def install
     bin.install "404.html"
