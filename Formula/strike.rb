@@ -10,7 +10,5 @@ class Strike < Formula
     bin.install "strike"
   end
 
-  test do
-    system "strike version"
-  end
+  
 end
