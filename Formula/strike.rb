@@ -5,7 +5,7 @@ class Strike < Formula
   sha256 "fc1628ac277bc5a37a38194438cff8063951fa2eaa52373c49c11d581fae1494" # openssl sha256 [file]
 
   def install
-    bin.install "Resources/skeleton"
+    bin.install "Resources"
     bin.install "strike Libs"
     bin.install "strike"
   end
