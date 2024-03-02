@@ -1,8 +1,8 @@
 class Strike < Formula
   desc "Strike- A Static Site Generator"
   homepage "https://github.com/gkjpettet/strike"
-  url "https://github.com/gkjpettet/strike/releases/download/1.3.0/strike-130-macos.zip"
-  sha256 "579d2fdc9bb74d9fa11ce2f81b1927c0250de2e91d3c5b1987938621df6bd236" # openssl sha256 [file]
+  url "https://github.com/gkjpettet/strike/releases/download/1.4.0/strike-140-macos.zip"
+  sha256 "91a211812abe1b3fddb91b84ab5b9a26ee45ed3a7a7476322f555db0309b162d" # openssl sha256 [file]
 
   def install
     bin.install "_CodeSignature"
